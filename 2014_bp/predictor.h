@@ -2,8 +2,6 @@
 #define _PREDICTOR_H_
 
 #include "utils.h"
-#include "bt9.h"
-#include "bt9_reader.h"
 #include <list>
 #include <map>
 #include <bitset>
